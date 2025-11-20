@@ -1,6 +1,6 @@
 {
   "version": "1.0.1-admin",
-  "changelog": "- Fixed kiosk mode lock task issues\n- Improved auto-update system\n- Enhanced face detection algorithm\n- Bug fixes and performance improvements",
+  "changelog": "Bug fixes and performance improvements",
   "minSdkVersion": 27,
   "releaseDate": "2025-11-20",
   "downloadUrl": "https://facesync-dl.web.app/app-release.apk"
