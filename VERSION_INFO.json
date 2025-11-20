@@ -1,5 +1,5 @@
 {
-  "version": "8.6.0",
+  "version": "1.0.0-admin",
   "changelog": "- Fixed kiosk mode lock task issues\n- Improved auto-update system\n- Enhanced face detection algorithm\n- Bug fixes and performance improvements",
   "minSdkVersion": 27,
   "releaseDate": "2025-11-20",
