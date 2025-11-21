@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-admin",
+  "version": "1.0.1-admin",
   "changelog": "Bug fixes and performance improvements",
   "minSdkVersion": 27,
   "releaseDate": "2025-11-20",
